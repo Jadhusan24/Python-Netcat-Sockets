@@ -23,4 +23,6 @@ Netcat Server/Client Chat Appl
 
 ### The OUTPUT of the PROGRAM
 
-![Screenshot](./Output.JPG)
+![Screenshot](./output.jpg)
+
+
