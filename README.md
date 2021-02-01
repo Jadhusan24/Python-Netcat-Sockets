@@ -1,4 +1,4 @@
-# Netcat
+# Netcat-Sockets
 
 Netcat Server/Client Chat Appl
 
