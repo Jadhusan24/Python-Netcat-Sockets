@@ -25,4 +25,4 @@ Netcat Server/Client Chat Appl
 
 ![Screenshot](./output.jpg)
 
-
+![](output.gif)
