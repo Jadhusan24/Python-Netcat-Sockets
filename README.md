@@ -23,6 +23,6 @@ Netcat Server/Client Chat Appl
 
 ### The OUTPUT of the PROGRAM
 
-![Screenshot](./output.jpg)
+![Screenshot](./output/output.jpg)
 
-![](output.gif)
+![](/output/output.gif)
