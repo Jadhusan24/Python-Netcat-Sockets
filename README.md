@@ -15,7 +15,7 @@ Netcat Server/Client Chat Appl
 -----------------------------------
 ###         L I N U X
 -----------------------------------
-- open command prompt
+- open Terminal
 - navigate to  file path
 - type the following command
 >python3 listener.py "serverFILE" <br/>
