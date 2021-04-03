@@ -4,6 +4,9 @@ Netcat Server/Client Chat Appl
 
 ### HOW TO RUN?
     I have tested this program in Windows 10 Enterprise.
+
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
+
 -----------------------------------
 ###       W I N D O W S
 -----------------------------------
