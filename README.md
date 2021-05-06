@@ -1,6 +1,6 @@
 # Netcat-Sockets
 
-Netcat Server/Client Chat Appl
+Netcat Server/Client Chat Application
 
 ### HOW TO RUN?
     I have tested this program in Windows 10 Enterprise.
