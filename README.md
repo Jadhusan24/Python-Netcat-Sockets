@@ -21,8 +21,8 @@ Netcat Server/Client Chat Application
 - open Terminal
 - navigate to  file path
 - type the following command
->python3 listener.py "serverFILE" <br/>
->python3 client.py "clientFILE" <br/>
+>python3 listener.py <port number> <br/>
+>python3 client.py <Ip Addres> <port number> <br/>
 
 ### The OUTPUT of the PROGRAM
 
